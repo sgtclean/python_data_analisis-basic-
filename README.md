@@ -4,7 +4,7 @@ Este proyecto realiza un análisis exploratorio y visual de datos de ventas de u
 
  Herramientas usadas
 
-- Python 3.x
+- Python
 - pandas
 - matplotlib
 - seaborn
