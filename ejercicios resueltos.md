@@ -1,4 +1,4 @@
- Parte 1 - Análisis básico 
+Parte 1 - Análisis básico 
 
 El programa calcula lo siguiente a partir del archivo `ventas.csv`:
 
