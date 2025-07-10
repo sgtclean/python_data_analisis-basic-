@@ -29,4 +29,11 @@ Resultados de ejemplo
 
 Puedes ver los resultados numéricos en el archivo `ventas.txt` y las visualizaciones en la carpeta `graficos`.
 
+## 📁 Contenido del Proyecto
+/analisis-ventas/
+├── ventas.csv # Datos crudos de ventas
+├── analisis.py # Script principal con todo el análisis
+├── ventas.txt # Informe generado con resultados clave
+├── README.md # Este documento
+
 ---
