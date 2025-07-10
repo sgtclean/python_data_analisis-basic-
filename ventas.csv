@@ -1,0 +1,201 @@
+ID_venta,Producto,Categoria,Precio,Cantidad,Pais,Fecha
+1,Almohada,Hogar,69.69,2,México,2025-03-23
+2,Teclado Gamer,Electrónica,25.22,4,Colombia,2025-07-07
+3,Carrito RC,Juguetes,10.46,1,Chile,2025-05-02
+4,Lámpara LED,Hogar,15.97,5,México,2025-05-16
+5,Lámpara LED,Hogar,53.66,4,Chile,2025-03-09
+6,Calcetines,Ropa,38.04,2,Perú,2025-04-23
+7,Pantalón Slim,Ropa,99.29,1,Perú,2025-06-15
+8,Cafetera,Hogar,43.58,3,Argentina,2025-02-13
+9,Teclado Gamer,Electrónica,96.75,1,México,2025-04-28
+10,"Monitor 24""",Electrónica,21.91,1,Perú,2025-05-02
+11,Lego Star Wars,Juguetes,28.66,1,Colombia,2025-06-20
+12,Audífonos Bluetooth,Electrónica,90.86,5,México,2025-07-03
+13,"Monitor 24""",Electrónica,6.57,3,Perú,2025-04-24
+14,Pantalón Slim,Ropa,52.4,1,Argentina,2025-05-05
+15,Teclado Gamer,Electrónica,19.25,3,Chile,2025-03-27
+16,Teclado Gamer,Electrónica,91.51,2,Chile,2025-03-30
+17,Audífonos Bluetooth,Electrónica,15.82,3,Argentina,2025-03-31
+18,Audífonos Bluetooth,Electrónica,89.8,3,Colombia,2025-05-13
+19,Lámpara LED,Hogar,23.74,5,Argentina,2025-04-28
+20,Sudadera,Ropa,12.45,5,Argentina,2025-04-22
+21,Camiseta XL,Ropa,9.68,5,Chile,2025-03-14
+22,Lámpara LED,Hogar,84.79,3,Perú,2025-06-23
+23,Muñeca,Juguetes,43.48,2,Argentina,2025-04-25
+24,Teclado Gamer,Electrónica,72.7,5,México,2025-02-10
+25,Sudadera,Ropa,79.83,1,Colombia,2025-04-18
+26,Pantalón Slim,Ropa,6.04,1,Argentina,2025-01-13
+27,Muñeca,Juguetes,77.71,4,Chile,2025-02-21
+28,Pantalón Slim,Ropa,41.54,3,Perú,2025-05-02
+29,Muñeca,Juguetes,11.82,3,Perú,2025-04-25
+30,"Monitor 24""",Electrónica,59.07,4,México,2025-03-29
+31,Mouse Inalámbrico,Electrónica,55.4,4,Colombia,2025-04-15
+32,"Monitor 24""",Electrónica,58.77,4,México,2025-02-17
+33,Pantalón Slim,Ropa,66.07,3,Perú,2025-01-25
+34,Pantalón Slim,Ropa,17.83,4,Argentina,2025-05-12
+35,Teclado Gamer,Electrónica,51.12,3,Colombia,2025-05-29
+36,Sudadera,Ropa,77.26,2,Argentina,2025-03-13
+37,Rompecabezas,Juguetes,64.05,1,Perú,2025-06-04
+38,"Monitor 24""",Electrónica,84.05,4,Perú,2025-03-31
+39,Carrito RC,Juguetes,75.01,3,Perú,2025-02-21
+40,Almohada,Hogar,17.35,5,Colombia,2025-06-25
+41,"Monitor 24""",Electrónica,37.6,4,Chile,2025-06-03
+42,Camiseta XL,Ropa,57.74,5,Perú,2025-03-13
+43,Lego Star Wars,Juguetes,20.27,4,Perú,2025-05-23
+44,Rompecabezas,Juguetes,90.36,4,México,2025-04-01
+45,Lego Star Wars,Juguetes,31.79,5,Argentina,2025-03-24
+46,Teclado Gamer,Electrónica,24.47,5,México,2025-06-04
+47,"Monitor 24""",Electrónica,44.87,3,Colombia,2025-05-11
+48,Mouse Inalámbrico,Electrónica,33.44,2,Chile,2025-02-28
+49,Calcetines,Ropa,17.35,1,Argentina,2025-06-22
+50,Teclado Gamer,Electrónica,25.85,5,Colombia,2025-04-13
+51,Lego Star Wars,Juguetes,87.92,4,Colombia,2025-02-26
+52,Cafetera,Hogar,29.32,2,Argentina,2025-05-02
+53,Lego Star Wars,Juguetes,78.74,5,Colombia,2025-07-06
+54,Muñeca,Juguetes,73.17,3,Perú,2025-02-16
+55,Audífonos Bluetooth,Electrónica,73.21,3,Chile,2025-02-26
+56,Lego Star Wars,Juguetes,82.07,2,Argentina,2025-03-17
+57,Sudadera,Ropa,52.48,4,Argentina,2025-01-19
+58,Camiseta XL,Ropa,73.74,2,Argentina,2025-05-09
+59,Teclado Gamer,Electrónica,73.59,4,México,2025-03-03
+60,Lego Star Wars,Juguetes,91.55,5,Argentina,2025-03-09
+61,Lámpara LED,Hogar,57.7,4,Chile,2025-03-06
+62,Muñeca,Juguetes,18.56,2,Chile,2025-05-21
+63,Rompecabezas,Juguetes,20.56,3,Colombia,2025-02-11
+64,Audífonos Bluetooth,Electrónica,34.88,2,México,2025-02-19
+65,"Monitor 24""",Electrónica,83.03,1,Chile,2025-07-08
+66,Calcetines,Ropa,58.27,3,Colombia,2025-01-19
+67,Lego Star Wars,Juguetes,48.69,1,Argentina,2025-02-02
+68,Audífonos Bluetooth,Electrónica,52.4,5,Argentina,2025-04-30
+69,Carrito RC,Juguetes,96.17,1,Argentina,2025-02-06
+70,Camiseta XL,Ropa,42.55,4,Colombia,2025-05-07
+71,Camiseta XL,Ropa,97.73,5,Argentina,2025-03-26
+72,Pantalón Slim,Ropa,26.72,3,Chile,2025-01-08
+73,Pantalón Slim,Ropa,17.97,2,México,2025-06-22
+74,Sudadera,Ropa,60.06,5,México,2025-05-06
+75,Sábanas Queen,Hogar,56.41,3,Perú,2025-06-19
+76,Teclado Gamer,Electrónica,33.11,4,México,2025-06-21
+77,Lámpara LED,Hogar,49.86,4,Perú,2025-05-18
+78,Calcetines,Ropa,10.46,1,México,2025-06-23
+79,Sábanas Queen,Hogar,90.2,2,México,2025-01-26
+80,Sábanas Queen,Hogar,57.71,1,Argentina,2025-04-19
+81,Almohada,Hogar,72.55,4,México,2025-05-24
+82,Mouse Inalámbrico,Electrónica,86.73,1,Perú,2025-03-08
+83,Teclado Gamer,Electrónica,70.1,2,Colombia,2025-01-31
+84,Carrito RC,Juguetes,20.86,2,Chile,2025-01-09
+85,Rompecabezas,Juguetes,58.95,4,Argentina,2025-05-10
+86,Calcetines,Ropa,8.92,2,Perú,2025-04-11
+87,Rompecabezas,Juguetes,69.89,2,México,2025-03-24
+88,Camiseta XL,Ropa,55.99,2,Argentina,2025-02-20
+89,Sábanas Queen,Hogar,67.22,4,Argentina,2025-01-19
+90,Sudadera,Ropa,80.84,4,México,2025-02-25
+91,"Monitor 24""",Electrónica,87.39,4,Colombia,2025-05-24
+92,Audífonos Bluetooth,Electrónica,98.28,4,Chile,2025-05-25
+93,Rompecabezas,Juguetes,93.47,1,Perú,2025-03-14
+94,Muñeca,Juguetes,67.09,2,Argentina,2025-05-24
+95,Sudadera,Ropa,68.67,4,Colombia,2025-06-23
+96,Carrito RC,Juguetes,13.59,1,Chile,2025-04-20
+97,Lámpara LED,Hogar,85.16,5,Argentina,2025-06-17
+98,Rompecabezas,Juguetes,54.43,4,México,2025-03-30
+99,Camiseta XL,Ropa,10.39,3,Argentina,2025-02-15
+100,Sábanas Queen,Hogar,46.05,5,México,2025-02-23
+101,Muñeca,Juguetes,53.16,5,Chile,2025-03-21
+102,Teclado Gamer,Electrónica,82.9,4,Colombia,2025-05-02
+103,Sábanas Queen,Hogar,53.69,3,Perú,2025-04-08
+104,Lego Star Wars,Juguetes,62.17,2,Chile,2025-05-13
+105,"Monitor 24""",Electrónica,73.24,4,Colombia,2025-04-17
+106,Pantalón Slim,Ropa,88.34,2,México,2025-06-19
+107,Cafetera,Hogar,46.38,5,México,2025-03-12
+108,Sábanas Queen,Hogar,50.73,2,México,2025-02-13
+109,Muñeca,Juguetes,70.62,2,Argentina,2025-01-14
+110,Muñeca,Juguetes,37.36,5,Perú,2025-05-26
+111,Rompecabezas,Juguetes,10.44,3,México,2025-06-12
+112,Lego Star Wars,Juguetes,98.68,1,Perú,2025-03-19
+113,Rompecabezas,Juguetes,81.55,5,Argentina,2025-06-13
+114,Cafetera,Hogar,35.62,3,Perú,2025-06-19
+115,Sudadera,Ropa,30.53,4,Argentina,2025-06-10
+116,Teclado Gamer,Electrónica,24.44,1,Argentina,2025-01-11
+117,Carrito RC,Juguetes,16.44,1,Colombia,2025-01-28
+118,Audífonos Bluetooth,Electrónica,45.26,4,Colombia,2025-02-13
+119,"Monitor 24""",Electrónica,11.36,1,Colombia,2025-05-11
+120,Camiseta XL,Ropa,24.81,2,Perú,2025-06-14
+121,Sábanas Queen,Hogar,82.39,5,Colombia,2025-04-04
+122,Carrito RC,Juguetes,7.48,5,Argentina,2025-07-02
+123,Muñeca,Juguetes,86.03,3,México,2025-04-06
+124,Rompecabezas,Juguetes,11.01,2,Colombia,2025-04-18
+125,Audífonos Bluetooth,Electrónica,10.54,4,Colombia,2025-03-05
+126,Sábanas Queen,Hogar,32.81,5,Colombia,2025-04-04
+127,Audífonos Bluetooth,Electrónica,51.28,5,Argentina,2025-02-18
+128,"Monitor 24""",Electrónica,7.25,2,Argentina,2025-05-21
+129,Mouse Inalámbrico,Electrónica,11.92,4,Argentina,2025-07-07
+130,Cafetera,Hogar,47.24,5,Argentina,2025-03-06
+131,Teclado Gamer,Electrónica,50.69,5,México,2025-02-19
+132,Rompecabezas,Juguetes,81.0,2,México,2025-03-30
+133,Pantalón Slim,Ropa,82.43,1,México,2025-06-29
+134,Teclado Gamer,Electrónica,9.59,4,Chile,2025-01-19
+135,Lámpara LED,Hogar,57.56,3,Colombia,2025-05-05
+136,Sudadera,Ropa,36.4,1,Argentina,2025-06-08
+137,Audífonos Bluetooth,Electrónica,89.79,3,Chile,2025-04-11
+138,Rompecabezas,Juguetes,51.53,5,Chile,2025-02-19
+139,Cafetera,Hogar,28.39,3,Perú,2025-02-11
+140,Almohada,Hogar,84.4,4,Perú,2025-06-11
+141,Mouse Inalámbrico,Electrónica,88.66,5,Argentina,2025-03-03
+142,Cafetera,Hogar,85.24,5,Colombia,2025-06-25
+143,Lámpara LED,Hogar,43.67,1,México,2025-03-22
+144,Almohada,Hogar,47.33,4,Perú,2025-01-17
+145,Sábanas Queen,Hogar,56.74,4,Colombia,2025-01-29
+146,Pantalón Slim,Ropa,12.3,5,Chile,2025-04-26
+147,Lámpara LED,Hogar,94.52,2,Chile,2025-03-12
+148,Camiseta XL,Ropa,62.26,1,Argentina,2025-06-07
+149,Audífonos Bluetooth,Electrónica,75.19,5,México,2025-01-23
+150,Audífonos Bluetooth,Electrónica,88.02,4,Colombia,2025-03-17
+151,Lego Star Wars,Juguetes,58.68,3,México,2025-03-08
+152,Muñeca,Juguetes,50.08,5,Argentina,2025-05-14
+153,Lámpara LED,Hogar,29.72,5,Perú,2025-01-13
+154,Sudadera,Ropa,53.79,5,Chile,2025-05-28
+155,Rompecabezas,Juguetes,84.69,2,Argentina,2025-06-20
+156,Carrito RC,Juguetes,85.19,3,Argentina,2025-03-19
+157,Mouse Inalámbrico,Electrónica,20.36,4,Perú,2025-03-13
+158,Sábanas Queen,Hogar,47.7,3,Perú,2025-03-20
+159,Muñeca,Juguetes,69.15,5,Argentina,2025-03-25
+160,Teclado Gamer,Electrónica,7.4,2,Chile,2025-04-01
+161,Almohada,Hogar,48.61,4,México,2025-05-12
+162,Cafetera,Hogar,5.15,2,Perú,2025-07-02
+163,Lámpara LED,Hogar,58.06,3,México,2025-02-01
+164,Carrito RC,Juguetes,48.8,4,Colombia,2025-04-10
+165,Almohada,Hogar,31.05,3,Chile,2025-03-04
+166,Camiseta XL,Ropa,33.36,1,México,2025-05-23
+167,Pantalón Slim,Ropa,34.86,5,México,2025-04-22
+168,Sudadera,Ropa,16.46,4,Chile,2025-06-14
+169,Lámpara LED,Hogar,68.67,2,Colombia,2025-06-06
+170,Sudadera,Ropa,6.24,1,Perú,2025-02-10
+171,Mouse Inalámbrico,Electrónica,99.29,2,Colombia,2025-01-28
+172,"Monitor 24""",Electrónica,87.78,1,Argentina,2025-02-15
+173,Mouse Inalámbrico,Electrónica,68.4,2,México,2025-01-31
+174,Lámpara LED,Hogar,12.31,1,México,2025-04-18
+175,Camiseta XL,Ropa,26.35,1,Chile,2025-01-16
+176,Muñeca,Juguetes,73.23,4,Argentina,2025-05-14
+177,"Monitor 24""",Electrónica,47.27,5,Chile,2025-05-21
+178,"Monitor 24""",Electrónica,79.46,4,Perú,2025-01-11
+179,Mouse Inalámbrico,Electrónica,23.75,2,Perú,2025-01-17
+180,Lego Star Wars,Juguetes,85.22,1,Colombia,2025-05-10
+181,Muñeca,Juguetes,58.48,5,Colombia,2025-03-29
+182,Camiseta XL,Ropa,83.07,2,Colombia,2025-03-23
+183,Rompecabezas,Juguetes,35.15,4,Perú,2025-05-03
+184,Rompecabezas,Juguetes,56.2,4,Chile,2025-04-06
+185,Lámpara LED,Hogar,79.16,1,México,2025-02-24
+186,Lámpara LED,Hogar,20.6,5,Argentina,2025-06-27
+187,Sábanas Queen,Hogar,67.74,5,Chile,2025-05-08
+188,Lego Star Wars,Juguetes,49.19,3,Colombia,2025-04-06
+189,Mouse Inalámbrico,Electrónica,46.93,2,México,2025-01-12
+190,Lego Star Wars,Juguetes,31.41,3,Argentina,2025-05-01
+191,Sábanas Queen,Hogar,93.77,5,México,2025-04-02
+192,Pantalón Slim,Ropa,71.61,1,Argentina,2025-06-27
+193,Sábanas Queen,Hogar,39.13,3,Perú,2025-05-09
+194,Sudadera,Ropa,61.73,3,Argentina,2025-05-09
+195,Calcetines,Ropa,61.21,4,Chile,2025-01-27
+196,Mouse Inalámbrico,Electrónica,8.42,2,Chile,2025-05-05
+197,Pantalón Slim,Ropa,19.44,3,México,2025-02-07
+198,Sábanas Queen,Hogar,16.12,4,Argentina,2025-06-10
+199,Almohada,Hogar,38.74,2,Perú,2025-04-27
+200,Camiseta XL,Ropa,87.94,4,México,2025-01-25
